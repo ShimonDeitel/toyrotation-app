@@ -1,0 +1,27 @@
+{
+  "identifier" : "ToyRotationTracker",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "ToyRotationTrackerPro",
+      "localizations" : [
+        {
+          "description" : "Unlock Auto-rotation reminders and donation-ready list.",
+          "displayName" : "ToyRotationTracker Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.toyrotation.pro",
+      "referenceName" : "ToyRotationTracker Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
